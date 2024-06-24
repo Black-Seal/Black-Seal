@@ -1,12 +1,7 @@
 # Greetings from the Lion City , Adrian here!
 
 <p align="center">
-    <a href='https://www.linkedin.com/in/xliew/' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/LinkedIn-100000?logo=linkedin&logoColor=007bb5&labelColor=f6f6f6&color=007bb5&style=for-the-badge'/></a>
-    </a>
-    <a href='https://steamcommunity.com/id/lockheed_2179/' target="_blank"><img alt='steam' src='https://img.shields.io/badge/Steam-100000?logo=steam&logoColor=c7d5e0&labelColor=1b2838&color=2a475e&style=for-the-badge'/></a>
-    </a>
-    <a href='https://profile.intra.42.fr/users/xliew' target="_blank"><img alt='42' src='https://img.shields.io/badge/Singapore-100000?logo=42&logoColor=000000&labelColor=f6f6f6&color=222222&style=for-the-badge'/></a>
-    </a>
+    <a target="_blank"><img alt='altis' src='imgs/Portrait.jpg'/></a>
 </p>
 
 ## About Me 👋
@@ -25,6 +20,16 @@
   </a>
 </p>
 
+## Get In Touch
+
+<p align="center">
+    <a href='https://www.linkedin.com/in/xliew/' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/LinkedIn-100000?logo=linkedin&logoColor=007bb5&labelColor=f6f6f6&color=007bb5&style=for-the-badge'/></a>
+    </a>
+    <a href='https://steamcommunity.com/id/lockheed_2179/' target="_blank"><img alt='steam' src='https://img.shields.io/badge/Steam-100000?logo=steam&logoColor=c7d5e0&labelColor=1b2838&color=2a475e&style=for-the-badge'/></a>
+    </a>
+    <a href='https://profile.intra.42.fr/users/xliew' target="_blank"><img alt='42' src='https://img.shields.io/badge/Singapore-100000?logo=42&logoColor=000000&labelColor=f6f6f6&color=222222&style=for-the-badge'/></a>
+    </a>
+</p>
 
 ## Statistics
 <div align="center">
