@@ -1,7 +1,7 @@
 # Greetings from the Lion City , Adrian here!
 
 <p align="center">
-    <a target="_blank"><img alt='altis' src='imgs/Portrait.jpg'/></a>
+    <a target="_blank"><img alt='Portrait of me!' src='imgs/Portrait.jpg' width="375" height="500"/></a>
 </p>
 
 ## About Me 👋
